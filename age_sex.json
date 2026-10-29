@@ -1,0 +1,74 @@
+[
+  {
+    "age": "15–24",
+    "sex": "Men",
+    "rate": 31.8,
+    "signed": -31.8
+  },
+  {
+    "age": "15–24",
+    "sex": "Women",
+    "rate": 51.6,
+    "signed": 51.6
+  },
+  {
+    "age": "25–34",
+    "sex": "Men",
+    "rate": 30.6,
+    "signed": -30.6
+  },
+  {
+    "age": "25–34",
+    "sex": "Women",
+    "rate": 39.9,
+    "signed": 39.9
+  },
+  {
+    "age": "35–44",
+    "sex": "Men",
+    "rate": 25.0,
+    "signed": -25.0
+  },
+  {
+    "age": "35–44",
+    "sex": "Women",
+    "rate": 37.6,
+    "signed": 37.6
+  },
+  {
+    "age": "45–54",
+    "sex": "Men",
+    "rate": 22.9,
+    "signed": -22.9
+  },
+  {
+    "age": "45–54",
+    "sex": "Women",
+    "rate": 34.7,
+    "signed": 34.7
+  },
+  {
+    "age": "55–64",
+    "sex": "Men",
+    "rate": 21.3,
+    "signed": -21.3
+  },
+  {
+    "age": "55–64",
+    "sex": "Women",
+    "rate": 37.2,
+    "signed": 37.2
+  },
+  {
+    "age": "65+",
+    "sex": "Men",
+    "rate": 19.3,
+    "signed": -19.3
+  },
+  {
+    "age": "65+",
+    "sex": "Women",
+    "rate": 35.8,
+    "signed": 35.8
+  }
+]

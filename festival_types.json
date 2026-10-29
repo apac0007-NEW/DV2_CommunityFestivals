@@ -1,0 +1,17 @@
+[
+  {
+    "type": "Music festivals",
+    "rate": null,
+    "note": "One of the most attended festival types; exact rate not charted here"
+  },
+  {
+    "type": "First Nations festivals",
+    "rate": 17,
+    "note": "17% of Australians aged 15+ attended in 2022"
+  },
+  {
+    "type": "Festivals linked to a cultural group/community",
+    "rate": 22,
+    "note": "22% of Australians overall; Gen Z 34%"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "genre": "Electronic",
+    "share": 23
+  },
+  {
+    "genre": "Rock",
+    "share": 21
+  },
+  {
+    "genre": "Country",
+    "share": 19
+  },
+  {
+    "genre": "Indie",
+    "share": 17
+  },
+  {
+    "genre": "Folk",
+    "share": 13
+  },
+  {
+    "genre": "Mixed",
+    "share": 11
+  },
+  {
+    "genre": "Alternative",
+    "share": 10
+  },
+  {
+    "genre": "Hip hop",
+    "share": 9
+  },
+  {
+    "genre": "Blues",
+    "share": 8
+  },
+  {
+    "genre": "Pop",
+    "share": 7
+  },
+  {
+    "genre": "Jazz",
+    "share": 6
+  },
+  {
+    "genre": "Metal",
+    "share": 5
+  },
+  {
+    "genre": "Classical",
+    "share": 4
+  },
+  {
+    "genre": "Other",
+    "share": 4
+  },
+  {
+    "genre": "R&B",
+    "share": 3
+  },
+  {
+    "genre": "Reggae",
+    "share": 1
+  }
+]

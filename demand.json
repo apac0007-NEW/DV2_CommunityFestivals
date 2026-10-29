@@ -1,0 +1,32 @@
+[
+  {
+    "measure": "Want to attend more arts and cultural events",
+    "rate": 49,
+    "kind": "Demand"
+  },
+  {
+    "measure": "Women who want to attend more",
+    "rate": 55,
+    "kind": "Demand"
+  },
+  {
+    "measure": "Men who want to attend more",
+    "rate": 43,
+    "kind": "Demand"
+  },
+  {
+    "measure": "Remote residents who want to attend more",
+    "rate": 64,
+    "kind": "Access"
+  },
+  {
+    "measure": "Regional residents who want to attend more",
+    "rate": 47,
+    "kind": "Access"
+  },
+  {
+    "measure": "Major-city residents who want to attend more",
+    "rate": 49,
+    "kind": "Access"
+  }
+]
